@@ -1,2 +1,2 @@
 # sc_launch
-Launch Shoutcast Streaming Service
+Launch SHOUTcast Streaming Service
