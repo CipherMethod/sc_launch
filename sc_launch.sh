@@ -6,6 +6,7 @@
 #20191122 - Use pgrep
 #20220621 - Expand pgrep from sc_ to sc_serv
 #           A more better display of what's running
+#           Better process count maths
 
 HOME="/home/sc"
 
